@@ -1,3 +1,11 @@
+Building Micro Services with .Net Core + Krakend API Gateway
+
+https://medium.com/@balramchavan/building-micro-services-with-net-core-krakend-api-gateway-fad036f10298
+
+Building Micro services with .NET Core 2.2 + Krakend API gateway
+
+https://github.com/ultrasonicsoft/NetCore-MicroServices-Krakend-api-gateway-demo
+
 ![Krakend logo](docs/images/krakend.png)
 
 # The KrakenD framework
